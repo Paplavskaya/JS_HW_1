@@ -40,3 +40,7 @@ let height = 23;
 let width = 10;
 let SPryam = height * width;
 console.log(`Площадь прямоугольника ${SPryam}см.`)
+
+let hCilindra = 10;
+let VCilindra = Math.PI * hCilindra * a7 ** 2 / 4
+console.log(`Объем цилиндра равен ${VCilindra}`)
