@@ -60,3 +60,10 @@ let p = 10 / 100;
 let years = 5;
 let Pereplata = S * p * years;
 console.log(`Переплата по кредиту равна ${Pereplata} млн.руб`);
+
+let a = 8;
+let b = 3;
+let equations1 = (16 - a) / 2 + b;
+let equations2 = (15 * b - a) / (6 - b);
+let equations3 = 23780 / (3 + a + b);
+console.log(`${equations1} ${equations2} ${equations3}`);
