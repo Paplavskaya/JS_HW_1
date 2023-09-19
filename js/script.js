@@ -48,3 +48,9 @@ console.log(`Объем цилиндра равен ${VCilindra}`);
 let r = 5;
 let SKruga = Math.PI * r ** 2;
 console.log(`Площадь круга равна ${SKruga}`);
+
+let aTrap = 5;
+let bTrap = 7;
+let hTrap = 10;
+let STrap = (aTrap + bTrap) * hTrap / 2;
+console.log(`Площадь трапеции равна ${STrap}`);
