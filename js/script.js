@@ -35,3 +35,8 @@ console.log(a15, typeof a15);
 console.log(a16, typeof a16);
 console.log(a17, typeof a17);
 console.log(a18, typeof a18);
+
+let height = 23;
+let width = 10;
+let SPryam = height * width;
+console.log(`Площадь прямоугольника ${SPryam}см.`)
