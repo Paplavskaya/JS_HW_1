@@ -39,8 +39,12 @@ console.log(a18, typeof a18);
 let height = 23;
 let width = 10;
 let SPryam = height * width;
-console.log(`Площадь прямоугольника ${SPryam}см.`)
+console.log(`Площадь прямоугольника равна ${SPryam}`);
 
 let hCilindra = 10;
-let VCilindra = Math.PI * hCilindra * a7 ** 2 / 4
-console.log(`Объем цилиндра равен ${VCilindra}`)
+let VCilindra = Math.PI * hCilindra * a7 ** 2 / 4;
+console.log(`Объем цилиндра равен ${VCilindra}`);
+
+let r = 5;
+let SKruga = Math.PI * r ** 2;
+console.log(`Площадь круга равна ${SKruga}`);
