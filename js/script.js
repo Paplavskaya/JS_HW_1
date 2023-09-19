@@ -54,3 +54,9 @@ let bTrap = 7;
 let hTrap = 10;
 let STrap = (aTrap + bTrap) * hTrap / 2;
 console.log(`Площадь трапеции равна ${STrap}`);
+
+let S = 2;
+let p = 10 / 100;
+let years = 5;
+let Pereplata = S * p * years;
+console.log(`Переплата по кредиту равна ${Pereplata} млн.руб`);
